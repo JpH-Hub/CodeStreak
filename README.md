@@ -1,7 +1,5 @@
 # CodeStreak
 
-> **CodeStreak** é o nome definido para o projeto.
-
 Um aplicativo web para pessoas que já têm contato com programação e querem manter suas habilidades afiadas por meio de práticas rápidas e envolventes.
 
 ## A ideia
@@ -26,10 +24,6 @@ Pessoas que já têm contato com programação, desde quem possui conhecimentos 
 - **Plataforma:** Web para o protótipo inicial.
 - **Idioma do aplicativo:** portugues.
 - **Linguagens de programação abordadas:** A definir. Java será o ponto de partida por ser a linguagem com a qual o criador tem mais familiaridade, mas o projeto não ficará limitado a ela.
-
-## Objetivo do protótipo em quatro semanas
-
-Desenvolver um protótipo web funcional em quatro semanas. O escopo exato das funcionalidades e a abordagem técnica ainda serão definidos.
 
 ## Decisões em aberto
 
